@@ -1,13 +1,13 @@
-package com.techiep.ollama;
+package com.techiep.openai;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OllamaApplication {
+public class OpenaiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OllamaApplication.class, args);
+		SpringApplication.run(OpenaiApplication.class, args);
 	}
 
 }

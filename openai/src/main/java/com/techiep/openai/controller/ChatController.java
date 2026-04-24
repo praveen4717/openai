@@ -1,4 +1,4 @@
-package com.techiep.ollama.controller;
+package com.techiep.openai.controller;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.web.bind.annotation.GetMapping;
